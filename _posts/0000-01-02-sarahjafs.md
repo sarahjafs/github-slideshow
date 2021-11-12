@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Wow! I've made my first commit!
+Here is me editing using the pull request on the commit file. Wow! New vocab and all!
